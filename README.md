@@ -15,3 +15,9 @@ That way, I get to host my site for free and keep the code secret 🤫.
 The pages for each post are not created from Markdown documents.
 Each post can have its own custom feel and look, as the application
 layout allows for flexible UI customization.
+
+<div style="text-align: center;">
+  <img src="images/performance.png" width="660" height="400">
+</div>
+
+<br />
